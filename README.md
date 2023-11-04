@@ -1,1 +1,1 @@
-![hWjZC5](https://user-images.githubusercontent.com/81394274/113740290-3e42d800-9709-11eb-8692-bb67c350d2d5.png)
+![hWjZC5](https://cdn.discordapp.com/attachments/1170069118712545410/1170439371174969344/Screenshot_2023-11-04_220745.png?ex=65590b9b&is=6546969b&hm=a860b049f5fdc613b2b11378aaf7eabbb0adec605bc89f14ad6053d81776c543&)
