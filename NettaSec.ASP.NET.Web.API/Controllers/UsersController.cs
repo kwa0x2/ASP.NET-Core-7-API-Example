@@ -19,11 +19,11 @@ namespace NettaSec.ASP.NET.Web.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get(int id)
+        public async Task<IActionResult> Get()
         {
             try
             {
-                return GetReturnStatus(await _usersRepository.UsersGet(id), null);
+                return GetReturnStatus(await _usersRepository.UsersGet(), null);
             }
             catch (Exception ex)
             {
