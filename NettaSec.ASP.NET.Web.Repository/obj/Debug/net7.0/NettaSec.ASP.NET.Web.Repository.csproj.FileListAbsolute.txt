@@ -1,0 +1,15 @@
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\bin\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.deps.json
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\bin\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.dll
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\bin\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.pdb
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.dll
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\refint\NettaSec.ASP.NET.Web.Repository.dll
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.pdb
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\ref\NettaSec.ASP.NET.Web.Repository.dll
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\bin\Debug\net7.0\NettaSec.ASP.NET.Web.Core.dll
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\bin\Debug\net7.0\NettaSec.ASP.NET.Web.Core.pdb
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\NettaSec Solutions\API\NettaSec.ASP.NET.Web.API\NettaSec.ASP.NET.Web.Repository\obj\Debug\net7.0\NettaSec.ASP.NET.Web.Repository.csproj.CopyComplete

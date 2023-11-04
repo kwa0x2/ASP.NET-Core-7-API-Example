@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hObzw3HwIJWbHRESnkqEJA+SOg0q3VUowNZRXlGDzEI=",
+  "Source": "NettaSec.ASP.NET.Web.API",
+  "BasePath": "_content/NettaSec.ASP.NET.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

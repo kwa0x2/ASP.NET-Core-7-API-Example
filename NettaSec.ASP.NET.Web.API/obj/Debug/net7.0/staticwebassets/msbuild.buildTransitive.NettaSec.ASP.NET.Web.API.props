@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NettaSec.ASP.NET.Web.API.props" />
+</Project>

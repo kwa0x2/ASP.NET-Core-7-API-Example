@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTyJYmaCo2RcLX1QPmgy1vcDYD3EyarwZB9rApb63SEKBzPlT9zL42oUfGcGQnl/rZPdixC7I8GAblcD84sgTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\OneDrive\\Masaüstü\\NettaSec Solutions\\API\\NettaSec.ASP.NET.Web.API\\NettaSec.ASP.NET.Web.Repository\\NettaSec.ASP.NET.Web.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\dapper\\2.1.15\\dapper.2.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
