@@ -9,7 +9,7 @@ namespace NettaSec.ASP.NET.Web.Repository.IRepositories
 {
     public interface IUsersRepository
     {
-        Task<IEnumerable<Users>> UsersGet(int id);
+        Task<IEnumerable<Users>> UsersGet();
         Task<IEnumerable<Users>> UsersPost(Users users);
         Task<IEnumerable<Users>> UsersPut(Users users);
         Task<IEnumerable<Users>> UsersDelete(int id);
