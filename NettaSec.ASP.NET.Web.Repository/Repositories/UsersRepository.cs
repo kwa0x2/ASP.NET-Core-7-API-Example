@@ -19,7 +19,7 @@ namespace NettaSec.ASP.NET.Web.Repository.Repositories
             _connection = connection;
         }
 
-        public async Task<IEnumerable<Users>> UsersGet(int id)
+        public async Task<IEnumerable<Users>> UsersGet()
         {
             string sql = "SELECT * FROM nettasec ORDER BY id ASC";
             return await _connection.QueryAsync<Users>(sql);
